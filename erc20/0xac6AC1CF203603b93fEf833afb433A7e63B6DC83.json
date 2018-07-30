@@ -1,0 +1,20 @@
+{
+  "symbol": "Ether Sunshine",
+  "address": "0x4B1875F6A2Fe42dc0B2F577a012CD72c4232e636",
+  "overview":{
+        "en": "Ether Sunshine",
+        "zh": ""
+  },
+  "email": "admin@etswallet.com",
+  "website": "https://www.etswallet.com/",
+  "whitepaper": "https://www.etswallet.com/ets.pdf",
+  "state": "LOCKED | NORMAL",
+  "published_on": "2018-06-15",
+  "initial_price":{
+        "ETH":"0.000076 ETH",
+        "USD":"0.04 USD"
+  },
+  "links": {
+    "github": "https://github.com/Ether-Sunshine"
+  }
+}
